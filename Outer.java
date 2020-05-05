@@ -8,15 +8,6 @@ package outerinner;
 
 public class Outer {
 
-    public a(){}
-        public aa(){}
-        public aaa(){}
-        public aaaa(){}
-        public aaaaa(){}
-        public aaaaaa(){}
-        public aaaaaaa(){}
-        public aaaaaaaa(){}
-    
     public String get(int a, int b, int c, int d, int e, int f, int g, int h) {
         return "Outer";
     }
