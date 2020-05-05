@@ -36,6 +36,10 @@ public class Outer {
      */
     public static void main(String[] args) {
         Outer outer = new Outer();
+                Outer outer = new Outer();
+                Outer outer = new Outer();
+                Outer outer = new Outer();
+        
         System.out.println(outer.new Middle().new Inner().exec());
     }
 
