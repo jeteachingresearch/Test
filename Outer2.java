@@ -9,6 +9,7 @@ package outerinner;
 public class Outer {
 
     public String get(int a, int b, int c, int d) {
+        int aaa;
         return "Outer";
     }
 
