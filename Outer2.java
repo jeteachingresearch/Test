@@ -8,7 +8,7 @@ package outerinner;
 
 public class Outer {
 
-    public String get(int a, int b) {
+    public String get(int a, int b, int c, int d) {
         return "Outer";
     }
 
